@@ -1,3 +1,17 @@
+# user-defined
+*/results/*
+*.pickle
+*power_system_3*
+*hovercraft*
+*pendulum*
+Mirror_descent_1.py
+Results\ 5_4_21/*
+contour_plots.py
+map_between_sets.py
+mirror\ descent\ RL\ first\ attempt/*
+results\ 5-23-21/*
+vertex-net-master/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
